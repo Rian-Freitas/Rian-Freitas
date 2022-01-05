@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<div align="center">
+  <a href='https://www.linkedin.com/in/rian-freitas-da-silva-5ba66418a/'>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Rian-Freitas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rian-Freitas&layout=compact&langs_count=6&theme=radical&hide=jupyter%20notebook&includeForks=true"/>
+</div>
+
 <!--
 **Rian-Freitas/Rian-Freitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+

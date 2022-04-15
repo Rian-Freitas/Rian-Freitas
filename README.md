@@ -1,7 +1,7 @@
 ## 🏆 Qualificações
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Rian-Freitas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rian-Freitas&layout=compact&langs_count=3&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rian-Freitas&layout=compact&langs_count=6&theme=radical"/>
 </div>
   
 ## 📚 Stacks
